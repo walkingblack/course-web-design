@@ -7,3 +7,14 @@
 <h2> Design responsivo em dispositivos móveis </h2>
 ![celular responsivo](https://github.com/user-attachments/assets/26b87101-16f6-46b7-9a53-ab14cc1d3d2d)
 
+
+<h3> Tecnologias utilizadas: </h3>
+<ol>
+  <ul>
+    <li> HTML </li>
+    <li> CSS </li>
+    <li> Figma </li>
+    <li> Fedora Linux </li>
+  </ul>
+</ol>
+
